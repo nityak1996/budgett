@@ -70,7 +70,7 @@ body{
 }
 
 .output-container{
-    background-color: #587ef4;
+    background-color: hsl(279, 73%, 55%);
     color: #fff;
     border-radius: 0.3em;
     box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
